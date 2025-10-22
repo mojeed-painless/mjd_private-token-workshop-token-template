@@ -7,7 +7,11 @@ A privacy-focused token implementation built on the Aleo blockchain platform.
 
 - **Program Name:** `mojeed_token.aleo`
 - **Deployment ID:** `at18wvfqcrtfggfar078vpjce2gd6ywg3nzsm0p7kc24fwhd0p2q5zsyukpl4`
-- **Transaction ID:** `at1n3hjzee079gknjad9hzwq0m6grzzy8sguu9hu20za3lhsxpt2v9sat5l4r`
+- **Execution ID:**
+-  **Public mint:** `at1n3hjzee079gknjad9hzwq0m6grzzy8sguu9hu20za3lhsxpt2v9sat5l4r`
+-  **Public transfer:**
+-  **Private mint:**
+-  **Private transfer:**
 - **Repository:** [GitHub](https://github.com/mojeed-painless/mjd_private-token-workshop-token-template)
 
 ## Features
