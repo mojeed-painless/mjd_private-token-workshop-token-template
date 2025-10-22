@@ -9,7 +9,7 @@ A privacy-focused token implementation built on the Aleo blockchain platform.
 - **Deployment ID:** `at18wvfqcrtfggfar078vpjce2gd6ywg3nzsm0p7kc24fwhd0p2q5zsyukpl4`
 - **Execution ID:**
 -  **Public mint:** `at1n3hjzee079gknjad9hzwq0m6grzzy8sguu9hu20za3lhsxpt2v9sat5l4r`
--  **Public transfer:**
+-  **Public transfer:** `at1zzfeu69t6hwewfq36nuwezme62lmc9p9yjvwzd2zsywmhprllczs4nz2ew`
 -  **Private mint:**
 -  **Private transfer:**
 - **Repository:** [GitHub](https://github.com/mojeed-painless/mjd_private-token-workshop-token-template)
